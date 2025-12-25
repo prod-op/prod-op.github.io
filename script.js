@@ -1,4 +1,3 @@
-script.js
 let lang = "pt";
 const adminMode = true; // ← MUDE PARA false quando publicar
 
